@@ -28,9 +28,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <div id="container">
 	<!-- header -->
 	<header>
-    <img src="logo.png" alt="Logo">
+    <img src=<?php echo base_url('/assets/tree-736885__480.jpg'); ?> alt="Logo">
   </header>
-    <!-- /header -->
 
 </div>
 
